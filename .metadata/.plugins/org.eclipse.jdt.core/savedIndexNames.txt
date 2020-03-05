@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\bruno\Desktop\UDEMY\Java COMPLETO\introOO\.metadata\.plugins\org.eclipse.jdt.core
+2297733760.index
+3729101479.index
+2276141497.index
+164380578.index
+1653015994.index
